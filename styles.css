@@ -1,6 +1,6 @@
 .img-thumbnail {
     max-width: 50%; /* or to whatever you want here */
-    height: auto; /* or to whatever you want here */
+    max-height: auto; /* or to whatever you want here */
     border: none;
   }
 
