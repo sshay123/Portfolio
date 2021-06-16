@@ -1,9 +1,43 @@
 .img-thumbnail {
-    max-width: 50%; /* or to whatever you want here */
-    max-height: auto; /* or to whatever you want here */
+    max-width: 50%; 
+    max-height: auto; 
     border: none;
   }
 
 .p-padding{
   padding-top: 10px;
+}
+
+.navbar-default { 
+  background-color: rgb(43, 109, 207) !important; 
+}
+
+.navbar-default .navbar-brand {
+  color: rgb(250, 244, 244);
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: rgb(250, 244, 244);
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #86cbeb;
+}
+
+.bg-1 { 
+  background-color: #ffffff; 
+  color: #181616;
+}
+.bg-2 { 
+  background-color: rgb(43, 109, 207); 
+  color: rgb(250, 244, 244);
+}
+.bg-3 { 
+  background-color: #ffffff; 
+  color: #555555;
+}
+.bg-4 { 
+background-color: rgb(43, 109, 207); 
+color: rgb(250, 244, 244);
 }
